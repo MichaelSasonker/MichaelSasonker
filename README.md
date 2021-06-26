@@ -4,7 +4,7 @@
   
   I'm full stack developer with a bachelor’s degree in physics and hands-on experience as DevOps and field engineer. 
   
-  :technologist: In my spare time I enjoy exploring and learning about new technologies and discoveries. 
+  In my spare time I enjoy exploring and learning about new technologies and discoveries. 
   
 
 ## Languages and Technologies
